@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @adrian-hrnn
-- 👀 I’m interested in java / python coding, 3d animation
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on minecraft ***java*** mods 
+- 👀 I’m interested in java / python coding
+- 🌱 I’m currently learning python
 - 📫 How to reach me @adrian.hrnn
 
 <!---
